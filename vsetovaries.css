@@ -1,0 +1,153 @@
+
+body {
+	background-image: url(image/fon.jpg);
+}
+
+
+.welcome {
+   font: 400% MV Boli;
+   color: #fff;
+
+   text-align: center;
+   width: 25%;
+   margin-left: 480px;
+      border: 3px solid #fff;
+   	border-left: 10000px;
+	border-right: 10000px;
+
+   padding: 10px;
+   opacity: 1;
+}
+
+.hf{
+
+
+   color: #fff;
+   font: 200% MV Boli;
+   
+   text-align: center;
+   width: 25%;
+   margin-left: 480px;
+
+   padding: 10px;
+   opacity: 1;
+   border: 3px solid #fff;
+   	border-left: 10000px;
+	border-right: 10000px;
+
+}
+
+
+#about{
+		border: 3px solid #fff;
+	text-align:center;
+	font: 200% MV boli ;
+	color: #fff;
+    
+	width: 15%;
+    top: 40px;
+    left: 15px;
+	opacity: 0.3;
+	position:absolute;
+	text-decoration: none;
+	user-select: none;
+	outline: none;
+
+
+
+}
+
+#about:hover{
+opacity: 1;	
+position:absolute;
+}
+
+#contacts{
+		border: 3px solid #fff;
+	text-align:center;
+	font: 200% MV boli ;
+	color: #fff;
+
+	width: 15%;
+    top: 170px;
+    left: 15px;
+	opacity: 0.3;
+	position:absolute;
+	text-decoration: none;
+	user-select: none;
+	outline: none;
+
+
+}
+
+#contacts:hover{
+opacity: 1;
+
+
+}
+
+#menu{
+		border: 3px solid #fff;
+	text-align:center;
+	font: 200% MV boli ;
+	color: #fff;
+    user-select: none;
+	width: 15%;
+    top: 245px;
+    left: 15px;
+	opacity: 0.3;
+    position: absolute;
+    text-decoration: none;
+
+}
+
+#menu:hover{
+opacity: 1;	
+position:absolute;
+
+}
+
+.opisanie{
+	font: 100% MV boli;
+	color: #fff;
+	text-decoration: none;
+	user-select: none;
+	background-color: #f54a15;
+	padding: .7em 1.5em;
+	outline: none;
+	opacity: 0.8;
+	position: absolute;
+	left: 570px;
+}
+.opisanie:hover{
+	background: rgb(232,95,76);
+}
+.opisanie:active{
+
+	background: rgb(152,15,0);
+}
+
+.opesanie{
+	font: 100% MV boli;
+	color: #fff;
+	text-decoration: none;
+	user-select: none;
+	background-color: #f54a15;
+	padding: .7em 1.5em;
+	outline: none;
+	opacity: 0.8;
+	position: absolute;
+	left: 530px;
+	bottom: 210px;
+}
+.opesanie:hover{
+	background: rgb(232,95,76);
+}
+.opesanie:active{
+
+	background: rgb(152,15,0);
+}
+
+
+
+
